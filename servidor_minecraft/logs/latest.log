@@ -1,0 +1,76 @@
+[03:49:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:49:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[03:49:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:49:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:49:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - Fahare (1.2.1)
+[03:49:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:49:51] [ServerMain/INFO]: Loaded 1461 recipes
+[03:49:51] [ServerMain/INFO]: Loaded 1574 advancements
+[03:49:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:49:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 383.9ms
+[03:49:52] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:49:52] [Server thread/INFO]: Loading properties
+[03:49:52] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[03:49:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:49:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:49:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:49:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:49:54] [Server thread/INFO]: Default game type: SURVIVAL
+[03:49:54] [Server thread/INFO]: Generating keypair
+[03:49:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:49:54] [Server thread/INFO]: Using epoll channel type
+[03:49:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:49:54] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:49:54] [Server thread/INFO]: [Fahare] Loading server plugin Fahare v1.2.1
+[03:49:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:49:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:49:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:49:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:49:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:49:54] [Server thread/INFO]: Preparing level "world"
+[03:49:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[03:49:55] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:49:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[03:49:55] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:49:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[03:49:55] [Server thread/INFO]: Prepared spawn area in 0 ms
+[03:49:55] [Server thread/INFO]: Done preparing level "world" (0.880s)
+[03:49:55] [Server thread/INFO]: [Fahare] Enabling Fahare v1.2.1
+[03:49:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'fahare:limbo'...
+[03:49:55] [Server thread/INFO]: Prepared spawn area in 1 ms
+[03:49:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'fahare:overworld'...
+[03:49:55] [Server thread/INFO]: Prepared spawn area in 3 ms
+[03:49:56] [Server thread/INFO]: [spark] Starting background profiler...
+[03:49:57] [Server thread/INFO]: Running delayed init tasks
+[03:49:57] [Server thread/INFO]: Done (15.564s)! For help, type "help"
+[03:50:01] [User Authenticator #0/INFO]: UUID of player Shoxoden is 1e1a96e6-6a79-3209-8ce1-63cd95e3a6b9
+[03:50:01] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [Fahare]
+[03:50:04] [Server thread/INFO]: Shoxoden joined the game
+[03:50:04] [Server thread/INFO]: Shoxoden[/127.232.153.201:48179] logged in with entity id 1 at ([overworld]-656.0, 76.0, -240.0)
+[03:50:06] [User Authenticator #0/INFO]: UUID of player juancitopy is 02ba77f5-ff24-3964-be86-fbb1994ea2c2
+[03:50:08] [Server thread/INFO]: juancitopy joined the game
+[03:50:08] [Server thread/INFO]: juancitopy[/127.128.110.199:39263] logged in with entity id 66 at ([overworld]-151.33622715048548, 63.0, 580.7202307825662)
+[03:51:07] [Server thread/INFO]: juancitopy issued server command: /time set day
+[03:51:07] [Server thread/INFO]: [juancitopy: Set the time to 1000]
+[03:51:47] [Server thread/INFO]: Shoxoden has made the advancement [Stone Age]
+[03:52:23] [Server thread/INFO]: Shoxoden has made the advancement [Getting an Upgrade]
+[03:54:06] [Server thread/INFO]: Shoxoden has made the advancement [Monster Hunter]
+[03:56:39] [Server thread/INFO]: juancitopy has made the advancement [Suit Up]
+[04:01:16] [Async Chat Thread - #0/INFO]: [Not Secure] <juancitopy> zzzz
+[04:01:16] [Async Chat Thread - #0/INFO]: [Not Secure] <juancitopy> z
+[04:01:16] [Async Chat Thread - #2/INFO]: [Not Secure] <juancitopy> z
+[04:01:16] [Async Chat Thread - #2/INFO]: [Not Secure] <juancitopy> z
+[04:01:17] [Async Chat Thread - #2/INFO]: [Not Secure] <juancitopy> z
+[04:01:33] [Server thread/INFO]: Shoxoden has made the advancement [Sweet Dreams]
+[04:02:13] [Server thread/INFO]: juancitopy issued server command: /tp Shoxoden
+[04:02:13] [Server thread/INFO]: [juancitopy: Teleported juancitopy to Shoxoden]
+[04:06:04] [Server thread/INFO]: juancitopy has made the advancement [Not Today, Thank You]
+[04:07:48] [Server thread/INFO]: Shoxoden has made the advancement [Acquire Hardware]
+[04:07:57] [Server thread/INFO]: juancitopy has made the advancement [Diamonds!]
+[04:08:04] [Server thread/INFO]: Shoxoden has made the advancement [Isn't It Iron Pick]
+[04:13:46] [Server thread/INFO]: Shoxoden has made the advancement [Diamonds!]
+[04:16:58] [Server thread/INFO]: [juancitopy: Set own game mode to Spectator Mode]
+[04:17:19] [Server thread/INFO]: [juancitopy: Set own game mode to Survival Mode]
+[04:17:28] [Server thread/INFO]: Shoxoden has made the advancement [Suit Up]
+[04:18:08] [Server thread/INFO]: juancitopy has made the advancement [Ice Bucket Challenge]
